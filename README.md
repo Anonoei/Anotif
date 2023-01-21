@@ -5,6 +5,4 @@
  1. Click "Run and Debug" in VSCode
 
 # Release
- 1. `npm install -g @vscode/vsce`
- 2. `vsce package`
- 3. `vsce publish`
+ 1. Reference [Publishing an Extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
