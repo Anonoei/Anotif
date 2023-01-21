@@ -1,0 +1,36 @@
+{
+  "name": "anotif",
+  "displayName": "Anotif",
+  "description": "Anonoei's VSCode theme",
+  "publisher": "Anonoei",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Anonoei",
+    "email": "contact@anonoei.com"
+  },
+  "copyright": "Copyright ©2022 Anonoei",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anonoei/Anotif.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anonoei/Anotif/issues"
+  },
+  "homepage": "https://github.com/Anonoei/Anotif#readme",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anotif",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Anotif-color-theme.json"
+      }
+    ]
+  }
+}
